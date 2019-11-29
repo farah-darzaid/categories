@@ -1,0 +1,28 @@
+.filter {
+	background: pink;
+	width: 100%;
+	height: 500px;
+}
+.filter .colors {
+	width: 100%;
+	height: 400px;
+	margin: 5%;
+}
+.filter .colors div {
+	width: 20%;
+	height: 100px;
+	display: inline-block;
+}
+.filter .colors .red {
+	background: red;
+}
+.filter .colors .black{
+	background: black
+}
+.filter .colors .green{
+	background: green
+}
+.buttons {
+	margin: 0px 40%;
+    padding: 2% 0px;
+}
